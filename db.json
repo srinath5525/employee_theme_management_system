@@ -1,0 +1,75 @@
+{
+  "Employee": [
+    {
+      "EmpId": 1001,
+      "EmpName": "John Doe",
+      "Department": "IT",
+      "theme": "lightgreen",
+      "id": "FVrV6o70F8U"
+    },
+    {
+      "EmpId": 1202,
+      "EmpName": "Jane Smith",
+      "Department": "HR",
+      "theme": "beige",
+      "id": "wAq0cIHaimg"
+    },
+    {
+      "EmpId": 1206,
+      "EmpName": "Michael Johnson",
+      "Department": "Finance",
+      "theme": "lightgray",
+      "id": "4b2VGA2Viug"
+    },
+    {
+      "EmpId": 2020,
+      "EmpName": "Emily Davis",
+      "Department": "Marketing",
+      "theme": "beige",
+      "id": "0ltQJizg_KM"
+    },
+    {
+      "EmpId": 2032,
+      "EmpName": "David Wilson",
+      "Department": "Sales",
+      "theme": "beige",
+      "id": "MhVFKIpbCDI"
+    },
+    {
+      "EmpId": 2245,
+      "EmpName": "Sarah Brown",
+      "Department": "IT",
+      "theme": "lightgreen",
+      "id": "4ThylpcYP4Q"
+    },
+    {
+      "EmpId": 2323,
+      "EmpName": "James Taylor",
+      "Department": "HR",
+      "theme": "beige",
+      "id": "mWjO_6wbZkc"
+    },
+    {
+      "EmpId": 2365,
+      "EmpName": "Olivia Anderson",
+      "Department": "Finance",
+      "theme": "lightgray",
+      "id": "juSzD7IKldA"
+    },
+    {
+      "EmpId": 2501,
+      "EmpName": "William Martinez",
+      "Department": "Marketing",
+      "theme": "beige",
+      "id": "JZsiPfn6GqI"
+    },
+    {
+      "EmpId": 2601,
+      "EmpName": "Sophia Lee",
+      "Department": "Sales",
+      "theme": "lightgreen",
+      "id": "piAHiO1OQX0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
